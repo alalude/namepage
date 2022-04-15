@@ -1,5 +1,6 @@
 # namepage
 A simple HTML page with my name
+*An opportunity to practice Git*
 
 *An opportunity to practice Git*
 
