@@ -1,6 +1,5 @@
 # namepage
 A simple HTML page with my name
-*An opportunity to practice Git*
 
 *An opportunity to practice Git*
 
@@ -8,4 +7,4 @@ A simple HTML page with my name
 https://alalude.github.io/namepage/
 
 ## The Page
-![adesina's page] (namepageScreenshot.png)
+![screenshot of page] (namepageScreenshot.png)
